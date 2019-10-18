@@ -1,0 +1,28 @@
+.rss_feed p:nth-of-type(2) {
+    display: none ;}
+li.rss_feed {
+    list-style-type: none;
+}
+li.rss_feed img {
+    float: left;
+    width: 100px !important;
+    height: 63px !important;
+    display: block;
+    margin: 0px 20px 0px 0;
+    padding: 0;
+    overflow: hidden;
+}
+li.rss_feed {
+    /* padding: 10px 10px 10px 10px; */
+    box-shadow: 1px 0px 5px 5px #888888;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    padding: 30px 10px;
+    font-size: 14px;
+}
+a.rss_link {
+    display: block;
+    padding: 0 0 10px 0;
+    font-size: 17px;
+    text-decoration: none;
+}
