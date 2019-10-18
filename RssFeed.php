@@ -1,6 +1,6 @@
 <?php
 /**
- * @package  AlecadddPlugin
+ * @package  RssFeed
  */
 /*
 Plugin Name: RssFeed Plugin

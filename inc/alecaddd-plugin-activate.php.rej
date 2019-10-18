@@ -1,0 +1,14 @@
+diff a/inc/alecaddd-plugin-activate.php b/inc/alecaddd-plugin-activate.php	(rejected hunks)
+@@ -0,0 +1,11 @@
++<?php
++/**
++ * @package  AlecadddPlugin
++ */
++
++class AlecadddPluginActivate
++{
++	public static function activate() {
++		flush_rewrite_rules();
++	}
++}
+\ No newline at end of file
